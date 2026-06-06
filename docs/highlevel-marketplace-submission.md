@@ -11,6 +11,9 @@
 ## App Identity
 
 - App name: `InboxGuard: SPF DKIM DMARC Monitor`
+- HighLevel app ID: `6a2422a5e000c98c74d179fe`
+- Submitted version/status: `1.0.0` / `review`
+- Publish trace: `306aebff-4f6e-4a45-b11f-8040773e9172`
 - Short name: `InboxGuard`
 - Category: Email
 - Target user: Agency
